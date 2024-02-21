@@ -1,0 +1,5 @@
+# os image and command history
+*.img
+rpi_hist
+#uploader script
+uploader.sh

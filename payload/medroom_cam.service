@@ -1,0 +1,8 @@
+[Unit]
+Description=UV4L/WebRTC Medroom Camera
+
+[Service]
+ExecStart=/home/simuser/custom/start_server.sh
+
+[Install]
+WantedBy=multi-user.target
